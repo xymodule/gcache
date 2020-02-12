@@ -1,3 +1,3 @@
-module github.com/titus12/gcache
+module github.com/xymodule/gcache
 
 go 1.13

@@ -2,7 +2,7 @@ package GCache
 
 import (
 	"fmt"
-	"github.com/titus12/gcache/cache"
+	"github.com/xymodule/gcache/cache"
 	"log"
 	"os"
 	"testing"
